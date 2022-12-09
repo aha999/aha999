@@ -4,6 +4,8 @@ In my spare time i like to contribute to free & open source projects in any way 
 
 Linux, open source, nature, plants, gardening, tools in general, modularity, hardware/software freedom... Are some of the things i like. a lot.
 
+[![Aha999's GitHub stats](https://github-readme-stats.vercel.app/api?username=aha999&show_icons=true&count_private=true&include_all_commits&theme=tokyonight)](https://github.com/aha999/github-readme-stats)
+
 <!--
 **aha999/aha999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
