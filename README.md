@@ -2,6 +2,8 @@
 
 In my spare time i like to contribute to free & open source projects in any way i can!
 
+Linux, open source, nature, plants, gardening, tools in general, modularity, hardware/software freedom... Are some of the things i like. a lot.
+
 <!--
 **aha999/aha999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
